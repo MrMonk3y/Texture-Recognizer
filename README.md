@@ -1,6 +1,6 @@
 # Texture-Recognizer
 
-An attempt to recognize textures with a fully convolutional network. The Describable Textures dataset is used for this purpose. The dtd_laoder_color_patches.py grabs the labels and images and reorganizes them. This grabber was written by Prof.   [Dr. Thomas Koller](https://github.com/thomas-koller), not me!
+An attempt to recognize textures with a fully convolutional network. The Describable Textures dataset is used for this purpose. The dtd_laoder_color_patches.py grabs the labels and images and reorganizes them. This grabber was written by [Prof.  Dr. Thomas Koller](https://github.com/thomas-koller), not me!
 
 # Performance
 
